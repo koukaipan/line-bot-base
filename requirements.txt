@@ -1,0 +1,14 @@
+certifi
+chardet
+click
+Flask
+future
+gunicorn
+idna
+itsdangerous
+Jinja2
+line-bot-sdk
+MarkupSafe
+requests
+urllib3
+Werkzeug
